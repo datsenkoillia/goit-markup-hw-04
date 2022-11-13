@@ -159,7 +159,8 @@ body {
   gap: 10px;
 }
 
-.icon-mail, .icon-tel {
+.icon-mail,
+.icon-tel {
   fill: currentColor;
 }
 
@@ -327,7 +328,6 @@ body {
   background-color: var(--color-selection);
   color: #ffffff;
 }
-
 
 /* --------Clients----------*/
 
