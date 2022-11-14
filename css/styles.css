@@ -376,6 +376,7 @@ body {
 
 .footer-bloks {
   display: flex;
+  align-items: baseline;
 }
 
 .logo-footer {
@@ -408,7 +409,6 @@ body {
   line-height: 1.14;
   text-transform: uppercase;
   color: #ffffff;
-  padding-top: 12px;
   margin-bottom: 20px;
 }
 
@@ -498,7 +498,7 @@ body {
   padding-top: 20px;
   padding-bottom: 20px;
   padding-left: 24px;
-}
+  }
 
 .project-name {
   font-size: 18px;
